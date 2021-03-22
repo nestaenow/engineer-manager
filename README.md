@@ -15,7 +15,7 @@
  * [Good Boss, Bad Boss](https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076)
  * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - This is a great book if you work with people from other countries.
  * [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl)
- * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl) - This is a great book for helping you to lead and influence others.
+ * [How to Win Friends & Infl​uence People](https://www.amazon.com/dp/0671027034/ref=wl_it_dp_v_nS_ttl) - This is a great book for helping you to lead and influence others positively .
  * [Search Inside Yourself](https://www.amazon.com/dp/0062116932/ref=wl_it_dp_v_nS_ttl)
  * [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/dp/0884271951/ref=wl_it_dp_v_nS_ttl)
  * [Rising Strong](https://www.amazon.com/dp/0812995821/ref=wl_it_dp_v_nS_ttl)
@@ -54,7 +54,7 @@
  * [The Experimental Leader: Be a New Kind of Boss to Cultivate an Organization of Innovators](https://www.amazon.com/Experimental-Leader-Cultivate-Organization-Innovators/dp/1989603149) - Helpful tips on how to be an innovative leader and avoid the faults of historical leadership
  * [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) - A new way of thinking about management and thinking of your employees as allies
  * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset) - Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive
- * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management
+ * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management.
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -205,3 +205,4 @@
 6. Commit your changes (`git commit -am "Add some feature"`)
 7. Push to the branch (`git push origin my-new-feature`)
 8. Create new Pull Request
+L
